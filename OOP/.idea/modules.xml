@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommunicationAndEvents/CommunicationAndEvents.iml" filepath="$PROJECT_DIR$/CommunicationAndEvents/CommunicationAndEvents.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumerationsAndAnnotations/EnumerationsAndAnnotations.iml" filepath="$PROJECT_DIR$/EnumerationsAndAnnotations/EnumerationsAndAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorsAndComparators/IteratorsAndComparators.iml" filepath="$PROJECT_DIR$/IteratorsAndComparators/IteratorsAndComparators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plymorphism/Plymorphism.iml" filepath="$PROJECT_DIR$/Plymorphism/Plymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/examExercise/examExercise.iml" filepath="$PROJECT_DIR$/examExercise/examExercise.iml" />
     </modules>
   </component>
